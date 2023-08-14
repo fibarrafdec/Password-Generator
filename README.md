@@ -24,6 +24,7 @@ It's done when the password is generated, and displayed in an alert or written t
 
 - Links
 - Usage
+- Screenshots
 - Credits
 - License
   
@@ -40,6 +41,19 @@ This web page can be use to randomly generate a password that meets certain crit
 
 ## Screenshots
 
+https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Web%20page.png
+
+https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Number%20of%20characters%20prompt.png
+
+https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Upper%20case%20prompt.png
+
+https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Lower%20case%20prompt.png
+
+https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Numbers%20prompt.png
+
+https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Number%20of%20characters%20prompt.png
+
+https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Password.png
 
 
 ## Credits
@@ -54,7 +68,3 @@ The web page https://www.w3schools.com/js/
 ## License
 
 This repository is protected under the MIT License.
-
-
-
-
