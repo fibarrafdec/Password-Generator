@@ -2,15 +2,44 @@
 
 ## Description
 
-### User Story
+Password Generator is an application that an employee can use to generate a random password based on criteria they've selected.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents:
+
+- [Overview](#Overview)
+- [The Challenge](#The-Challenge)
+- [User Story](#User-Story)
+- [Acceptance Criteria](#Acceptance-Criteria)
+- [Mock Up Image](#Mock-Up-Image)
+- [Installation Instructions](#Installation-Instructions)
+- [Usage Instructions](#Usage-Instructions)
+- [Technologies Used](#Technologies-Used)
+- [Deployed Application Link](#Deployed-Application-Link)
+- [Video Location](#Video-Location)
+- [Screenshots](#Screenshots)
+- [Test](#Test)
+- [Questions](#Questions)
+- [Credits](#Credits)
+- [License](#License)
+
+# Overview
+
+## Challenge
+"This week's Challenge requires you to create an application that an employee can use to generate a random password based on criteria they've selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes."
+
+## User Story
+
+```md
 AS an employee with access to sensitive data,
 I want to randomly generate a password that meets certain criteria
 so that I can create a strong password that provides greater security.
-
+```
 
 ### Acceptance Criteria
 
+```md
 It's done when I click the button to generate a password, and I am presented with a series of prompts for password criteria.
 It's done when I select which criteria to include in the password.
 It's done when I choose a length of at least 8 characters and no more than 128 characters.
@@ -18,53 +47,73 @@ It's done when I confirm whether or not to include lowercase, uppercase, numeric
 It's done when I answer each prompt, and my input should be validated and at least one character type should be selected.
 It's done when all prompts are answered, and a password is generated that matches the selected criteria.  
 It's done when the password is generated, and displayed in an alert or written to the page.
+```
+## Mock-Up Image 
 
+The following image shows the desired web application's appearance:
+![Password Generator](./Images/Web%20page.png)
 
-## Table of Contents 
+## Installation Instructions
 
-- Links
-- Usage
-- Screenshots
-- Credits
-- License
-  
+This is an online Web Application deployed through GitHub, hence it doesn't need user's installation.
 
-## The link of the deployed application is:
+## Usage Instructions
+1. Open the web page using the link provided further in this README file, 
+2. Click on Generate Password, 
+3. Select the number of characters that you want to password to have, 
+4. Answer the following questions.
+5. Copy and use your new password.
 
-https://fibarrafdec.github.io/Password-Generator/
+## Technologies Used
+- Visual Studio Code: [Website](https://code.visualstudio.com/)
 
+## Deployed Application Link
+[Password Generator](https://fibarrafdec.github.io/Password-Generator/)
 
-## Usage
-
-This web page can be use to randomly generate a password that meets certain criteria.
-
+## Video Location
+[Password Generator Video](https://drive.google.com/file/d/1R6NRpe4pMOK9JB1kgCAGB3fPqX-PpQEA/view?usp=sharing)
 
 ## Screenshots
+![Screenshot](./Images/1.png)
+![Screenshot](./Images/2.png)
+![Screenshot](./Images/3.png)
 
-https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Web%20page.png
+## Test
+This application has been tested running it after deployment with GitHub.
 
-https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Number%20of%20characters%20prompt.png
+## Questions?
 
-https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Upper%20case%20prompt.png
+If you have any questions related with this Password Generator, feel free to reach me through:
 
-https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Lower%20case%20prompt.png
+Email:[fibarrafdec@gmail.com](fibarrafdec@gmail.com)
 
-https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Numbers%20prompt.png
-
-https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Number%20of%20characters%20prompt.png
-
-https://github.com/fibarrafdec/Password-Generator/blob/main/Images/Password.png
-
+GitHub username:[fibarrafdec](fibarrafdec)
+GitHub link: https://github.com/fibarrafdec
 
 ## Credits
+This application has been created by © 2023 Fernando Ibarra [fibarrafdec](https://github.com/fibarrafdec).
 
-The code on the HTML and CSS files used in this project has been provided by the Bootcamp, the code included in the JavaScript file has been created by myself using the following material:
+## License & Copyright ©
+This application is covered under the MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The code included in the activities of the Module 3 of this Bootcamp.
-The web page https://forum.codewithmosh.com/t/creating-a-password-generator-using-javascript/18971
-The web page https://github.com/hoffman1200/Homework-3/blob/master/script.js
-The web page https://www.w3schools.com/js/
+### Copyright © 2023 Fernando Ibarra
+```md
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## License
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-This repository is protected under the MIT License.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
