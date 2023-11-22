@@ -22,7 +22,7 @@ Password Generator is an application that an employee can use to generate a rand
 - [Test](#Test)
 - [Questions](#Questions)
 - [Credits](#Credits)
-- [License](#License)
+- [License](#License--Copyright-)
 
 # Overview
 
